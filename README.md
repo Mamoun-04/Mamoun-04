@@ -43,7 +43,7 @@
 - 📈 **SmartPitch** — AI-powered job outreach & resume assistant.  
 - 🌱 **Gradient** — AI course planning + scheduling tool for students.  
 - ✍️ **Byte Size** — newsletter breaking down AI & business in <5 minutes.  
-- 🧩 Freelance Projects — [San Diego Medical Research](https://sdmedresearch.com), Charcuterie Hub, Chai Theory Co., and more.  
+- 🧩 Freelance Projects — [San Diego Medical Research](https://sdmedresearch.net), Charcuterie Hub, Chai Theory Co., and more.  
 
 ---
 
