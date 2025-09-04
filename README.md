@@ -37,19 +37,18 @@
 ---
 
 ## 🚀 Featured Projects
-- 📱 **The Sacred Verses (iOS App)** — Bringing daily Qur’anic inspiration to thousands.  
+- 📱 **The Sacred Verses (iOS App)** — Bringing daily Qur’anic inspiration to thousands.
+- ✍️ **Byte Size** — newsletter breaking down AI & business in <5 minutes.  
 - 🧠 **Brain MRI Tumor Detection** — CNN + Grad-CAM with clinical-style reporting.  
 - 💳 **Credit Card Fraud Detector** — near-perfect ML classification system.  
 - 📈 **SmartPitch** — AI-powered job outreach & resume assistant.  
 - 🌱 **Gradient** — AI course planning + scheduling tool for students.  
-- ✍️ **Byte Size** — newsletter breaking down AI & business in <5 minutes.  
 - 🧩 Freelance Projects — [San Diego Medical Research](https://sdmedresearch.net), Charcuterie Hub, Chai Theory Co., and more.  
 
 ---
 
 ## 🌐 Connect with Me
 - 📝 Newsletter: [Byte Size](https://byte-size.beehiiv.com)  
-- 🎙️ Podcast: [Hikmah Media](https://thesacredverses.com)  
 - 💼 LinkedIn: [Mamoun Mraish](https://www.linkedin.com/in/mamounmraish)  
 - 🐙 GitHub: [Mamoun-04](https://github.com/Mamoun-04)  
 
